@@ -8,9 +8,9 @@ class Student:
         print(f"Hi, my name is {self.name}. I'm {self.age} years old and my program is {self.course}.")
 
 # Create three student objects
-student1 = Student("Kim", 19, "Information Technology")
-student2 = Student("Wonwoo", 20, "Information Technology")
-student3 = Student("James", 23, "Information Technology")
+student1 = Student("Kimberly Villegas", 19, "Information Technology")
+student2 = Student("Ashly Cajusay", 20, "Information Technology")
+student3 = Student("James Andrew", 23, "Information Technology")
 
 # Call the introduce method for each student
 student1.introduce()
